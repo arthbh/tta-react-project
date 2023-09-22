@@ -47,9 +47,8 @@
     font-size: 18px;
     font-weight: bold;
     margin-left: 35px;
-}
-.left {
-    margin:175px;
+    width:450px;
+    text-align: center;
 }
 .layout {
     padding: 10px;   
