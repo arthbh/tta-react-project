@@ -6,7 +6,7 @@ const Layout = () => {
     <>
     <div className='navbar' >
         <div id='abc'>LOREM IPSUM</div>
-        <div>LINK1</div>
+        <div><a href="">LINK1</a></div>
     </div>
     <div className='content' >
         <div> <p>THIS IS SOME CONTENT ALIGNED IN THE CENTER VETICALLY AND HORIZONTALLY</p> </div>
