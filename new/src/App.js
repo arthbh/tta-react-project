@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import Layout from './Components/Layout';
+import Landing from './Components/Landing';
 
 function App() {
   return (
     <div className="App">
-      <Layout/>
+      <Landing/>
     </div>
   );
 }
